@@ -6,7 +6,6 @@ This is a Supplier Product List Processor written in PHP. It can parse various f
 
 ## Table of Contents
 
-- [Description](#description)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
